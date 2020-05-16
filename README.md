@@ -1,8 +1,10 @@
 # PCA-Part01
 
-A Machine Learning tutorial on PCA (Principal Component Analysis) working on the famous Wine dataset and then appplying Logistic Regression to our model to find predictions. 
+A Machine Learning tutorial using Python on PCA (Principal Component Analysis) working on the famous Wine dataset and then appplying Logistic Regression to our model to find predictions. 
 
 PCA is one of the most used unsupervised algorithm which helps in Dimension Reduction.
+
+Python Library used: Scikit-Learn
 
 Accuracy achieved in the model: 97.22%
 
